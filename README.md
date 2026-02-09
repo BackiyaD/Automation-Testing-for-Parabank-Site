@@ -19,6 +19,7 @@ The framework supports **parallel execution** across multiple browsers (Chrome, 
 ---
 
 ## Project Structure
+
 ParaBankAutomation/
 │
 ├── src/test/java
